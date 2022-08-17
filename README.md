@@ -12,9 +12,9 @@ This Flask app which can overwirte the face of the image1 to image 2 Then shows 
 - Open command prompt and change your current path<br>
 to folder where you can find 'app.py' file.
 ## Step 3: 
-- Create environment: conda create -name <environment name>
+- Create environment: ```conda create -name <environment name>```
 ## Step 4: 
-- Activate environment: conda activate <environment name>
+- Activate environment: ```conda activate <environment name>```
 ## Step 5: 
 - Use command below to install required dependencies-
 ```python -m pip install -r requirements.txt```
